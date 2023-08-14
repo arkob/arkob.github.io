@@ -11,7 +11,7 @@ Currently, I am the last year Ph.D. student at Information and Computer Science 
 
 ## Education
 
-- Current **Ph.D.** candidate in Computer Science at [KFUPM](http://www.kfupm.edu.sa/) .
+- Currently, **Ph.D.** candidate in Computer Science at [KFUPM](http://www.kfupm.edu.sa/) .
 - **M.S.** in in Computer Science at [KFUPM](http://www.kfupm.edu.sa/) (2017), _GPA: 3.89 / 4.0_. 
 - **B.S.** in IT at [University Utara Malaysia](https://www.uum.edu.my/),  _GPA: 3.93 / 4.0_.
   - _Gold Medal_, _Outstanding Academic Distinction_
