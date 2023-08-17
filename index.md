@@ -7,7 +7,7 @@ layout: default
 
 **PhD Candidate** at [KFUPM](http://www.kfupm.edu.sa/), Dhahran, Saudi Arabia
 
-Currently, I am the last year Ph.D. student at Information and Computer Science Department. My current research is related to human-in-the-loop paradigms and its challenges. Specifically, I am working on to the intersection between active learning, weak supervision and semi-supervised learning. Some of my previous research and industry activities include application of Reinforcement Learning in code refactoring, detection of figurative lanuguage, and employment of evolutionary algorithms on forecasting.
+Currently, I am the last year Ph.D. student at Information and Computer Science Department. My current research is related to the human-in-the-loop paradigms and its challenges. Specifically, I am working on to the intersection between active learning, weak supervision and semi-supervised learning. Some of my previous research and industry activities include application of Reinforcement learning in code refactoring, detection of figurative lanuguage, and employment of Evolutionary algorithms on forecasting.
 
 ## Education
 
