@@ -9,7 +9,7 @@ layout: default
 
 I have successfuly defended my Ph.D. at Information and Computer Science Department, at KFUPM. 
 
-My Ph.D research was related to the human-in-the-loop paradigms and its challenges, computational social science, and challenges in NLP due to usage of figurative language. Some of my previous research and industry activities include application of Reinforcement learning in code refactoring, application of ML paradigms in forecasting radiation exposure, and industrial IoT for applied engineering lab.
+My Ph.D research was related to the human-in-the-loop paradigms and its challenges, computational social science, and challenges in NLP due to the usage of figurative language. Some of my previous research and industry activities include application of Reinforcement learning in code refactoring, application of ML paradigms in forecasting radiation exposure, and industrial IoT for applied engineering lab.
 
 ## Education
 
